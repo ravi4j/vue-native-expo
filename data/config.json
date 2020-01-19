@@ -1,0 +1,9 @@
+{
+    "app": {
+        "version": 1.0,
+        "name": "Risk Assessment"
+    },
+    "search": {
+        "text": "Search your shipment..."
+    }
+}
